@@ -2,6 +2,10 @@
 
 This repository contains a **MATLAB** implementation for building a **credit scoring model** to predict loan status (good or bad) based on features from a dataset. The steps include data preprocessing, balancing the dataset using **SMOTE**, and training a **credit scorecard**. The performance is evaluated using various metrics such as accuracy, precision, recall, specificity, and F1 score.
 
+## Authors:
+- Ranix
+- Manureymon
+
 ## Key Steps:
 1. **Data Preprocessing:**
    - Load and clean the dataset (`credit_dataset.csv`).
